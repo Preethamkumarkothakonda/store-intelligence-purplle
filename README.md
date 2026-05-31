@@ -89,7 +89,6 @@ store-intelligence/
 ├── README.md
 ├── DESIGN.md
 ├── CHOICES.md
-├── DEMO_SCRIPT.md
 └── SUBMISSION_CHECKLIST.md
 ```
 
@@ -360,7 +359,6 @@ Configuration: `app/logger.py`
 |---|---|
 | [DESIGN.md](./DESIGN.md) | System design, schemas, data flow |
 | [CHOICES.md](./CHOICES.md) | Technology decisions and tradeoffs |
-| [DEMO_SCRIPT.md](./DEMO_SCRIPT.md) | 2-minute presentation script |
 | [SUBMISSION_CHECKLIST.md](./SUBMISSION_CHECKLIST.md) | Pre-submission verification |
 
 ---
