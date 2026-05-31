@@ -1,0 +1,9 @@
+data/videos/
+*.mp4
+venv/
+**/__pycache__/
+pipeline/
+run_pipeline.py
+requirements-pipeline.txt
+.venv/
+.git/

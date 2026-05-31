@@ -1,0 +1,15 @@
+# Core API dependencies (see requirements-api.txt for Docker)
+fastapi==0.128.8
+uvicorn==0.39.0
+sqlalchemy==1.4.54
+pandas==2.2.3
+pydantic==2.13.4
+
+# Pipeline video processing dependencies (local only, not in Docker)
+ultralytics
+opencv-python
+torch
+
+# Development / testing (see requirements-dev.txt)
+# pytest
+# httpx

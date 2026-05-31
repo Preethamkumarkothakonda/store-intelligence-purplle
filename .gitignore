@@ -1,0 +1,28 @@
+# CCTV Videos
+data/videos/
+*.mp4
+
+# Virtual Environments
+venv/
+.venv/
+
+# Python Cache
+**pycache**/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+yolov8n.pt
