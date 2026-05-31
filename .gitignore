@@ -26,3 +26,4 @@ Thumbs.db
 # Logs
 *.log
 yolov8n.pt
+pipeline/store.db
