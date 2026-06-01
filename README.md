@@ -350,7 +350,7 @@ Configuration: `app/logger.py`
 - Grafana dashboards for store ops teams
 - GPU-accelerated inference pipeline
 - Multi-store tenant isolation and auth
-
+The challenge provided store floor-plan layouts. The current implementation uses logical retail zones (e.g., skincare, makeup, billing) for analytics. Future iterations can leverage the provided floor plan to map tracked visitor coordinates to brand-specific shelves and generate brand-level engagement heatmaps.
 ---
 
 ## Documentation Index
