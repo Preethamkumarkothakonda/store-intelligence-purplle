@@ -25,7 +25,6 @@ The objective of this project is to build an end-to-end Store Intelligence Platf
 
 # High Level Architecture
 
-```mermaid
 flowchart TB
 
     subgraph offline["Offline Processing Pipeline"]
