@@ -14,8 +14,6 @@ Retail stores operate multiple CCTV cameras that capture rich behavioral data â€
 ---
 
 ## High Level Architecture
-
-```mermaid
 flowchart TB
     subgraph offline ["Offline Pipeline (Local)"]
         V[CCTV Videos<br/>CAM1 CAM2 CAM3]
